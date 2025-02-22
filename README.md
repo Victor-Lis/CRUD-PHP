@@ -38,7 +38,7 @@ CREATE TABLE colaboradores (
 
 <br>
 
-## Uso 🔌
+## 🔌 Uso 
 - Acesse a página principal para visualizar a lista de colaboradores
 - Use o botão "Adicionar Colaborador" para incluir novos registros
 - Utilize as opções "Editar" e "Excluir" para gerenciar os colaboradores

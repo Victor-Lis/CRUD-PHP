@@ -4,7 +4,7 @@ Este projeto é um sistema simples de cadastro de colaboradores utilizando MySQL
 
 <br>
 
-## Tabela do Banco de Dados 📦
+## 📦 Tabela do Banco de Dados 
 
 ```sql
 CREATE TABLE colaboradores (
